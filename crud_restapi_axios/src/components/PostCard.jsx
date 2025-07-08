@@ -59,6 +59,7 @@ const PostCard = () => {
         })}
       </ol>
     </section>
+    
     </>
   )
 }
